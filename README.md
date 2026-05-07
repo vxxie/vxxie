@@ -3,5 +3,5 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=5000&pause=3000&color=6E583F&center=true&width=439&lines=Devote+a+lifetime+to+reading+novels"./>
+<img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=5000&pause=3000&color=C07B8F&center=true&width=439&lines=Devote+a+lifetime+to+reading+novels"./>
 </p>

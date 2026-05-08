@@ -9,11 +9,11 @@
         
    https://github.com/nyanmeowmeow
    
-   ✦. Heavy insp w/o my permission.
+   ✦. Heavy insp, mượn cái màu nhưng đớp luôn cái base. Đợi bị nhắc mới thèm xin lỗi, xin lỗi xong vẫn ngựa quen đường cũ.
    
-   ✦. Blocked and skipped out on the debt.
+   ✦. Vay tiền không trả, gọi về cho phụ huynh vẫn đéo thèm giải quyết. Nhà dột từ nóc.
    
-   ✦. Flirted with friend's lover.
+   ✦. Một tay đẩy thuyền bạn đến với crush, tay còn lại thì đòi hớt luôn crush của bạn. Bị từ chối thì quay ra nói xấu. 
    
   </p>
 </details>
@@ -44,14 +44,29 @@
         
    https://github.com/petnails
     
-   ✦. Copied w/o my permission. Also copied my friends 
+   ✦. Copied w/o my permission. Also copied my friends.
    
    ✦. Believe me, no one in #Vietnam1sv has not been backbitten by him.
 
    ✦. Take advantage of everyone's kindness/tolerance to feed his ego.
 
    ✦. Emotional Bully/toxic.
+     
+  </p>
+</details>
+
+   <img width="828" height="228" alt="IMG_4779" src="https://github.com/user-attachments/assets/587d7c09-6e92-4a07-b720-3d91dc0ef59b" />
+<details>
+    <summary>${\textsf{\color{#EEF4AA}✦inf✦}}$</summary>
+    <div align="left">
+        
+   https://github.com/purefatal
+
+   ✦. Delusional about others stalking her. But when we want to “sorting things out”, she unfriended directly w/o even waiting for any explanation?
    
+   ✦. Had a direct conflict with me, yet instead of apologizing to me first, she went to my friend to apologize to her. 
+
+   ✦. Using “being young” as an excuse, but at 17 is already old enough to aware of your own mistakes and responsibilities.
   </p>
 </details>
 

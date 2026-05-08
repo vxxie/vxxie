@@ -56,4 +56,4 @@
 </details>
 
 <p align="side">
-<img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=5000&pause=3000&color=EEF4AA&center=true&width=439&lines=When+I+add+you+to+blacklist+,it+means+there+is+no+misunderstanding+here,+so+no+need+to+eẽplain./>
+<img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=6000&pause=3000&color=EEF4AA&center=true&width=500&lines=i+will+add+you+to+my+blacklist+if+you+exceed+my+limits" />

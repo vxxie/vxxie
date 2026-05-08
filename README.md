@@ -24,6 +24,7 @@
  <details>
     <summary>${\textsf{\color{#EEF4AA}✦inf✦}}$</summary>
     <div align="left">
+        
    https://github.com/sunytx
     
    ✦. Copied w/o my permission.
@@ -40,6 +41,7 @@
 <details>
     <summary>${\textsf{\color{#EEF4AA}✦inf✦}}$</summary>
     <div align="left">
+        
    https://github.com/petnails
     
    ✦. Copied w/o my permission. Also copied my friends 
@@ -54,4 +56,4 @@
 </details>
 
 <p align="side">
-<img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=5000&pause=3000&color=EEF4AA&center=true&width=439&lines=Please+be+careful+with+these+people!"./>
+<img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=5000&pause=3000&color=EEF4AA&center=true&width=439&lines=When+I+add+you+to+blacklist+,it+means+there+is+no+misunderstanding+here,+so+no+need+to+eẽplain./>

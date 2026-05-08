@@ -49,13 +49,13 @@
    ✦. Take advantage of everyone's kindness/tolerance to feed his ego.
 
    ✦. Emotional Bully/toxic.
-
+   
+  </p>
+</details>
 
 <p align="side">
 <img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=5000&pause=3000&color=EEF4AA&center=true&width=439&lines=Please+be+careful+with+these+people!"./>
 
-<p align="side">
-<img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=5000&pause=3000&color=EEF4AA&center=true&width=439&lines=Not+only+me+,my+friends+are+also+victims"./>
    
   </p>
 </details>

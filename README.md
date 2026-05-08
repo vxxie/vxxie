@@ -51,11 +51,16 @@
    ✦. Emotional Bully/toxic.
 
 
+<p align="side">
+<img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=5000&pause=3000&color=EEF4AA&center=true&width=439&lines=Please+be+careful+with+these+people!"./>
+
+<p align="side">
+<img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=5000&pause=3000&color=EEF4AA&center=true&width=439&lines=Not+only+me+,my+friends+are+also+victims"./>
    
   </p>
 </details>
 
-<img width="495" height="420" alt="Không Có Tiêu Đề24_20260507083719" src="https://github.com/user-attachments/assets/43f55e82-c46a-48b4-810c-c039a73347bf" />
+<img width="495" height="420" alt="Không Có Tiêu Đề24_20260507083719" src="https://github.com/user-attachments/assets/43f55e82-c46a-48b4-810c-c039a73347bf" />
 
 
 <p align="left">

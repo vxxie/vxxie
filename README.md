@@ -70,5 +70,22 @@
   </p>
 </details>
 
+<img width="828" height="769" alt="IMG_4792" src="https://github.com/user-attachments/assets/4d215415-80d4-436b-9440-bb8377ead120" />
+
+<details>
+    <summary>${\textsf{\color{#EEF4AA}✦inf✦}}$</summary>
+    <div align="left">
+        
+   https://github.com/personlovelyy
+   
+   ✦. This user has been stalking and copying almost all of my skins for a long time, I'm really shocked to know that I have a second version on safe. 🙏
+   
+   ✦. Not only ponies, his github is also a copy of others.
+
+   ✦. I don't have his avatar, only a ss taken from his friend.
+   
+  </p>✦. 
+</details>
+
 <p align="side">
 <img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=6000&pause=3000&color=EEF4AA&center=true&width=500&lines=i+will+add+you+to+my+blacklist+if+you+exceed+my+limits" />

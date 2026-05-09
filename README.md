@@ -84,7 +84,7 @@
 
    ✦. I don't have his avatar, only a ss taken from his friend.
    
-  </p>✦. 
+  </p>
 </details>
 
 <p align="side">

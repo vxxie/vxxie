@@ -1,7 +1,11 @@
 <p align="side">
 <img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=5000&pause=3000&color=EEF4AA&center=true&width=439&lines=Blacklist"./>
-    <div align="left">
-<img width="922" height="247" alt="f8646dac1fb1c6accc5e68d22e4c8a0b" src="https://github.com/user-attachments/assets/f08a1cdf-e333-4fd4-9aa9-cc2e3a83d1bb" />
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=30&duration=2000&pause=2000&color=EEF4AA&center=true&width=300&lines=All+information+has+proof"./>
+
+<div align="left">
+<img width="977" height="200" alt="f8646dac1fb1c6accc5e68d22e4c8a0b" src="https://github.com/user-attachments/assets/f08a1cdf-e333-4fd4-9aa9-cc2e3a83d1bb" />
 <div align="center">  
   <details>
     <summary>${\textsf{\color{#EEF4AA}✦inf✦}}$</summary>
@@ -14,7 +18,7 @@
    ✦. Vay tiền không trả, gọi về cho phụ huynh vẫn đéo thèm giải quyết. Nhà dột từ nóc.
    
    ✦. Một tay đẩy thuyền bạn đến với crush, tay còn lại thì đòi hớt luôn crush của bạn. Bị từ chối thì quay ra nói xấu. 
-   
+
   </p>
 </details>
 
@@ -66,7 +70,8 @@
    
    ✦. Had a direct conflict with me, yet instead of apologizing to me first, she went to my friend to apologize to her. 
 
-   ✦. Using “being young” as an excuse, but at 17 is already old enough to aware of your own mistakes and responsibilities.
+   ✦. Just apologize when I added her to the blacklist, initially arguing that the information I gave was not correct, after I proved it, she found all kinds of reasons for "inf" that she denied. 
+   
   </p>
 </details>
 
@@ -87,5 +92,14 @@
   </p>
 </details>
 
+admitted his mistake and apologized.
+- [x] Nyanmeow(yu)
+- [x] suwi
+- [ ] petnails
+- [x] purefatal
+- [ ] kiyoo
+
+
 <p align="side">
 <img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=35&duration=6000&pause=3000&color=EEF4AA&center=true&width=500&lines=i+will+add+you+to+my+blacklist+if+you+exceed+my+limits" />
+    

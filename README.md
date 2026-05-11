@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Love+Light&size=30&duration=2000&pause=2000&color=EEF4AA&center=true&width=300&lines=All+information+has+proof"./>
 
 <div align="left">
-<img width="977" height="200" alt="f8646dac1fb1c6accc5e68d22e4c8a0b" src="https://github.com/user-attachments/assets/f08a1cdf-e333-4fd4-9aa9-cc2e3a83d1bb" />
+<img width="828" height="215" alt="f8646dac1fb1c6accc5e68d22e4c8a0b" src="https://github.com/user-attachments/assets/f08a1cdf-e333-4fd4-9aa9-cc2e3a83d1bb" />
 <div align="center">  
   <details>
     <summary>${\textsf{\color{#EEF4AA}✦inf✦}}$</summary>

@@ -92,7 +92,7 @@
   </p>
 </details>
 
-admitted his mistake and apologized.
+Admit their mistakes and apologize.
 - [x] Nyanmeow(yu)
 - [x] suwi
 - [ ] petnails
